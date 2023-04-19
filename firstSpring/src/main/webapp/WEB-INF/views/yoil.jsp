@@ -6,6 +6,7 @@
 <title>Home</title>
 </head>
 <body>
+
 	<P>${year }년 ${month }월 ${day }일 ${yoil }입니다 </P>
 </body>
 </html>
